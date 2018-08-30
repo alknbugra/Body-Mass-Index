@@ -1,6 +1,6 @@
 # Body-Mass-Index
 ```sh
-# Program.cs
+# ---- > Program.cs
 
 using System;
 
@@ -36,7 +36,7 @@ namespace bodyMassIdex
     }
 }
 
-#bmiCalculate.cs
+# ---- >  bmiCalculate.cs
 
 using System;
 using System.Collections.Generic;
