@@ -1,0 +1,11 @@
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\bin\Debug\netcoreapp2.0\bodyMassIdex.deps.json
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\bin\Debug\netcoreapp2.0\bodyMassIdex.runtimeconfig.json
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\bin\Debug\netcoreapp2.0\bodyMassIdex.runtimeconfig.dev.json
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\bin\Debug\netcoreapp2.0\bodyMassIdex.dll
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\bin\Debug\netcoreapp2.0\bodyMassIdex.pdb
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.AssemblyInfoInputs.cache
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.AssemblyInfo.cs
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.dll
+C:\Users\ABRA\source\repos\bodyMassIdex\bodyMassIdex\obj\Debug\netcoreapp2.0\bodyMassIdex.pdb
