@@ -1,7 +1,5 @@
 # Body-Mass-Index
 
-![gif](https://user-images.githubusercontent.com/29266933/44858558-f3bc6d80-ac7a-11e8-9995-6b5c5df9876e.gif)
-
 ```sh
 # ---- > Program.cs
 
@@ -61,3 +59,4 @@ namespace bodyMassIdex
 
 
 ```
+![gif](https://user-images.githubusercontent.com/29266933/44858558-f3bc6d80-ac7a-11e8-9995-6b5c5df9876e.gif)
